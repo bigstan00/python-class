@@ -117,4 +117,18 @@ b = 5
 
 #print("Loop ended")
 
-x = int("3")      # x will be 3
+#x = int("3")      # x will be 3
+
+# this is how to create and change directories
+#import os
+
+#current_directory = os.getcwd()
+#print(current_directory)
+
+#change cwd
+
+#os.chdir("/home/bigstan")
+#print("changed directory to:", os.getcwd())
+
+#os.mkdir("/home/bigstan/toothpick")
+#print("directory create")
