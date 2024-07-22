@@ -171,12 +171,6 @@ b = 5
 
 #print("env:", env_vars)
 
-#-----
-import os
-
-cmd = ls 
-
-print("ls")
 
 
 
