@@ -132,3 +132,65 @@ b = 5
 
 #os.mkdir("/home/bigstan/toothpick")
 #print("directory create")
+
+
+#-----
+#for cwd 
+#import os
+#dir = os.listdir("/home/bigstan/Python-Class")
+#print("Listed files and directories:", dir)
+
+#----
+#for home directories
+#import os
+#files = os.listdir("/home/bigstan")
+#print("Listed files and directories", files)
+
+#----------
+#to delete a directory
+#import os
+#os.rmdir("/home/bigstan/toothpick")
+#print("directory deleted")
+
+#----
+#to check if a file exist and if it doesnt a new directory should be created
+#import os
+
+#directory_path = ("/home/bigstan/toothpick")
+
+#if os.path.exists(directory_path):
+#    print("directory already exists.")
+#else:
+#    os.mkdir(directory_path)
+#    print("directory created")
+
+#------
+#import os
+
+#env_vars = os.environ
+
+#print("env:", env_vars)
+
+#-----
+import os
+
+cmd = ls 
+
+print("ls")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
