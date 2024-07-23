@@ -171,7 +171,20 @@ b = 5
 
 #print("env:", env_vars)
 
+#--------
+#import subprocess
+#x = subprocess.run(['ls', '-la'])
 
+#print("file:", x)
+
+#---------
+#import subprocess
+#x = subprocess.run(['ls', '-a'])
+#print("file:", x)
+
+#----------
+#import subprocess
+#subprocess.run('ls')
 
 
 
